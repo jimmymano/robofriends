@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jimmymano/robofriends/static/css/main.c21d2171.chunk.css",
+    "main.js": "/jimmymano/robofriends/static/js/main.7fda8827.chunk.js",
+    "main.js.map": "/jimmymano/robofriends/static/js/main.7fda8827.chunk.js.map",
+    "runtime-main.js": "/jimmymano/robofriends/static/js/runtime-main.73b0a6cd.js",
+    "runtime-main.js.map": "/jimmymano/robofriends/static/js/runtime-main.73b0a6cd.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/jimmymano/robofriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js": "/jimmymano/robofriends/static/js/2.db7782eb.chunk.js",
+    "static/js/2.db7782eb.chunk.js.map": "/jimmymano/robofriends/static/js/2.db7782eb.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/jimmymano/robofriends/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/jimmymano/robofriends/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/jimmymano/robofriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/jimmymano/robofriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.c21d2171.chunk.css.map": "/jimmymano/robofriends/static/css/main.c21d2171.chunk.css.map",
+    "static/js/2.db7782eb.chunk.js.LICENSE.txt": "/jimmymano/robofriends/static/js/2.db7782eb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jimmymano/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b0a6cd.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.db7782eb.chunk.js",
+    "static/css/main.c21d2171.chunk.css",
+    "static/js/main.7fda8827.chunk.js"
+  ]
+}
